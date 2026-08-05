@@ -9,9 +9,9 @@ import java.util.Scanner;
                 "central de atendimento oficial","órgão do governo","receita federal","seu banco informa",
                 "suporte técnico","você ganhou","prêmio exclusivo","restituição disponível","cashback",
                 "investimento garantido","lucro fácil ","rapido","renda extra","confirme seus dados","atualize seu cadastro",
-                "verifique sua identidade","digite sua senha/código","clique no link para validar",
+                "verifique sua identidade","digite sua senha","código","clique no link para validar",
                 "ajuda urgente","preciso de dinheiro agora","não conte pra ninguém","emergência médica",
-                "clique aqui","acesse o link","baixe o aplicativo","regularize sua situação"
+                "acesse o link","baixe o aplicativo","regularize sua situação"
         };
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
